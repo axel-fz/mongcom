@@ -10,107 +10,107 @@ const mainContent = document.getElementById("main-content");
 
 const images = [
     {
-        src:'/1(crreate, list DB).png',
+        src:'/asset/1(crreate, list DB).png',
         description: 'creating and listing databases'
     },
     {
-        src:'/2(drop DB).png',
+        src:'/asset/2(drop DB).png',
         description: 'deleting databases with the drop'
     },
     {
-        src:'/3(create, list collection).png',
+        src:'/asset/3(create, list collection).png',
         description: 'creating and listing a collection found in a DB'
     },
     {
-        src:'/4(drop collection).png',
+        src:'/asset/4(drop collection).png',
         description: 'deleting a collection with the drop'
     },
     {
-        src:'/5(inserting).png',
+        src:'/asset/5(inserting).png',
         description: 'insertion commands'
     },
     {
-        src:'/6(insertOne).png',
+        src:'/asset/6(insertOne).png',
         description: 'inserting One document in a collection'
     },
     {
-        src:'/7(insertMany).png',
+        src:'/asset/7(insertMany).png',
         description: 'inserting Many documents in a collection as array of objects'
     },
     {
-        src:'/8(view, count, documents).png',
+        src:'/asset/8(view, count, documents).png',
         description: 'listing/viewing and counting documents in a collection'
     },
     {
-        src:'/9(findOne).png',
+        src:'/asset/9(findOne).png',
         description: 'finding/search One document in a collection'
     },
     {
-        src:'/10(search, read operation).png',
+        src:'/asset/10(search, read operation).png',
         description: 'reading operaions'
     },
     {
-        src:'/11(find).png',
+        src:'/asset/11(find).png',
         description: 'reading/finding operaions with criteria'
     },
     {
-        src:'/12(update and replace ops).png',
+        src:'/asset/12(update and replace ops).png',
         description: 'updates commands'
     },
     {
-        src:'/13(updateOne syntax).png',
+        src:'/asset/13(updateOne syntax).png',
         description: 'update One document matching the filter'
     },
     {
-        src:'/14(updateMany syntax).png',
+        src:'/asset/14(updateMany syntax).png',
         description: 'update All document matching the filter'
     },
     {
-        src:'/15(update examples).png',
+        src:'/asset/15(update examples).png',
         description: 'practical case/ example of update'
     },
     {
-        src:'/16(replaceOne synatax).png',
+        src:'/asset/16(replaceOne synatax).png',
         description: 'replace One document matching the filter'
     },
     {
-        src:'/18(delete one syntax, ex).png',
+        src:'/asset/18(delete one syntax, ex).png',
         description: 'deleting the first document that matches the filter'
     },
     {
-        src:'/19(deleteMany plus all delete types).png',
+        src:'/asset/19(deleteMany plus all delete types).png',
         description: 'all the delete commands summarised practical case/ example'
     },
     {
-        src:'/20(bulkwrite commands).png',
+        src:'/asset/20(bulkwrite commands).png',
         description: 'performing various commands at once with the bulkwrite'
     },
     {
-        src:'/21(example bulkrite).png',
+        src:'/asset/21(example bulkrite).png',
         description: 'practical case/example of bulkwrite'
     },
     {
-        src:'/22(accepted bulk write commands).png',
+        src:'/asset/22(accepted bulk write commands).png',
         description: 'accepted bulk write commands'
     },
     {
-        src:'/23(upsert command).png',
+        src:'/asset/23(upsert command).png',
         description: 'upsert command (updating and inserting at once)'
     },
     {
-        src:'/24(upsert illustration).png',
+        src:'/asset/24(upsert illustration).png',
         description: 'upsert command (updating and inserting at once) practical case/example'
     },
     {
-        src:'/25(nested document in array).png',
+        src:'/asset/25(nested document in array).png',
         description: 'nested documents in array of documents'
     },
     {
-        src:'/26(example of nested documents).png',
+        src:'/asset/26(example of nested documents).png',
         description: 'nested documents in array of documents plus search/ find'
     },
     {
-        src:'/27(reading nested documents).png',
+        src:'/asset/27(reading nested documents).png',
         description: ' searching/ finding nested documents'
     },
 ]
